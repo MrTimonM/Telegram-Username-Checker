@@ -31,11 +31,9 @@ python main.py
 
 ![App Screenshot](https://i.ibb.co/DKNDXwf/Screenshot-2024-01-12-171252.png)
 
-## Why? 
-- If you can find rare, unclaimed good username then you can sell it on https://fragment.com/
-
 ![App Screenshot](https://i.ibb.co/TgLSFYb/Screenshot-2024-01-12-171422.png)
 
 
-
+## Why? 
+- If you can find rare, unclaimed good username then you can sell it on https://fragment.com/
 
