@@ -1,6 +1,6 @@
 
 # Telegram Username Checker
-This Python script allows you to check the availability of Telegram usernames in an efficient manner. It utilizes threading for concurrent processing, making the username checking process faster. The results are then categorized into available, not available, or uncertain.
+This Python script allows you to check the availability of Telegram usernames using https://fragment.com/. It's fast and free and it doesn't require to login with your Telegram account. The results are saved in text file available or taken.
 
 # Installation
 
